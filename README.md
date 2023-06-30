@@ -1,2 +1,6 @@
+# kernel-user-comm-example
+The windows kernel driver which boosts the priority of your preferred thread in the rate of 1 to 31.
 
-The driver allows client to access its device, and then change priority of specified process whatever from 1 to 31
+Install and start the driver, then run client.exe with thread id and desired priority. ( do it in the elevated privilege )
+
+It works fine in my virtual machine environment.
