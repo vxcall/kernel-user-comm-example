@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.22)
-project(EWDK_quickstart)
+project(kernel_user_comm_example)
 
 set(CMAKE_CXX_STANDARD 14)
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS}")
